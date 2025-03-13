@@ -1,4 +1,4 @@
-# PIC$^2$D$^2$L: Precision and Interpretability in Colorectal Cancer Diagnosis with Deep Learning
+# PIC2D2L: Precision and Interpretability in Colorectal Cancer Diagnosis with Deep Learning
 
 ## Overview
 
